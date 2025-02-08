@@ -170,7 +170,7 @@ int main(int argc, char *argv[]) {
   }
 
 #ifdef Debug
-  cout << endl;、
+  cout << endl;
 
 
   cout << "DBG = " << dbg << endl;

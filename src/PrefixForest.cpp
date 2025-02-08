@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-#include "hypergraph.hpp"
+#include "../include/hypergraph.hpp"
 using namespace std;
 
 //#define Debug
